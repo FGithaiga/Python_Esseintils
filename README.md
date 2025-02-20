@@ -1,2 +1,2 @@
-# Python_Esseintils
+# Python_Esseintials
 Functions
